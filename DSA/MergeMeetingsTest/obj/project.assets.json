@@ -4670,11 +4670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetingsTest\\MergeMeetingsTest.csproj",
+      "projectUniqueName": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetingsTest\\MergeMeetingsTest.csproj",
       "projectName": "MergeMeetingsTest",
-      "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetingsTest\\MergeMeetingsTest.csproj",
+      "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetingsTest\\MergeMeetingsTest.csproj",
       "packagesPath": "C:\\Users\\lavakeshpandey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetingsTest\\obj\\",
+      "outputPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetingsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lavakeshpandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4690,8 +4690,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetings\\MergeMeetings.csproj": {
-              "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetings\\MergeMeetings.csproj"
+            "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj": {
+              "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj"
             }
           }
         }

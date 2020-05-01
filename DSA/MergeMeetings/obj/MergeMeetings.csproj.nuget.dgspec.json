@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetings\\MergeMeetings.csproj": {}
+    "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetings\\MergeMeetings.csproj": {
+    "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetings\\MergeMeetings.csproj",
+        "projectUniqueName": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj",
         "projectName": "MergeMeetings",
-        "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetings\\MergeMeetings.csproj",
+        "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj",
         "packagesPath": "C:\\Users\\lavakeshpandey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSA\\MergeMeetings\\obj\\",
+        "outputPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lavakeshpandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
