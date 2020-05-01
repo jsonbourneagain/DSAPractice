@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeMeetings", "MergeMeetings.csproj", "{839590EB-E7EA-4392-B4A3-6715CA5D159C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MergeMeeting", "MergeMeeting", "{EF459889-EFF9-4149-B390-604844134487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeMeetingsTest", "..\MergeMeetingsTest\MergeMeetingsTest.csproj", "{4586E526-04B1-4A23-BD65-DC00ADEA04D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839590EB-E7EA-4392-B4A3-6715CA5D159C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839590EB-E7EA-4392-B4A3-6715CA5D159C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839590EB-E7EA-4392-B4A3-6715CA5D159C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839590EB-E7EA-4392-B4A3-6715CA5D159C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4586E526-04B1-4A23-BD65-DC00ADEA04D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4586E526-04B1-4A23-BD65-DC00ADEA04D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4586E526-04B1-4A23-BD65-DC00ADEA04D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4586E526-04B1-4A23-BD65-DC00ADEA04D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{839590EB-E7EA-4392-B4A3-6715CA5D159C} = {EF459889-EFF9-4149-B390-604844134487}
+		{4586E526-04B1-4A23-BD65-DC00ADEA04D0} = {EF459889-EFF9-4149-B390-604844134487}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C8F3DAD-7B62-4DE7-B387-1313C15A8272}
+	EndGlobalSection
+EndGlobal
