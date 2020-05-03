@@ -1,0 +1,13 @@
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\bin\Debug\netcoreapp3.1\InPlaceReversingOfWords.exe
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\bin\Debug\netcoreapp3.1\InPlaceReversingOfWords.deps.json
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\bin\Debug\netcoreapp3.1\InPlaceReversingOfWords.runtimeconfig.json
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\bin\Debug\netcoreapp3.1\InPlaceReversingOfWords.runtimeconfig.dev.json
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\bin\Debug\netcoreapp3.1\InPlaceReversingOfWords.dll
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\bin\Debug\netcoreapp3.1\InPlaceReversingOfWords.pdb
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\obj\Debug\netcoreapp3.1\InPlaceReversingOfWords.csproj.CoreCompileInputs.cache
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\obj\Debug\netcoreapp3.1\InPlaceReversingOfWords.AssemblyInfoInputs.cache
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\obj\Debug\netcoreapp3.1\InPlaceReversingOfWords.AssemblyInfo.cs
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\obj\Debug\netcoreapp3.1\InPlaceReversingOfWords.dll
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\obj\Debug\netcoreapp3.1\InPlaceReversingOfWords.pdb
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\obj\Debug\netcoreapp3.1\InPlaceReversingOfWords.genruntimeconfig.cache
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfWords\obj\Debug\netcoreapp3.1\InPlaceReversingOfWords.csprojAssemblyReference.cache

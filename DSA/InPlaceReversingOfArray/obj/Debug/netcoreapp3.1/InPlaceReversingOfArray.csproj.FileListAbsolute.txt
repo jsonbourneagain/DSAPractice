@@ -1,0 +1,13 @@
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\bin\Debug\netcoreapp3.1\InPlaceReversingOfArray.exe
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\bin\Debug\netcoreapp3.1\InPlaceReversingOfArray.deps.json
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\bin\Debug\netcoreapp3.1\InPlaceReversingOfArray.runtimeconfig.json
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\bin\Debug\netcoreapp3.1\InPlaceReversingOfArray.runtimeconfig.dev.json
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\bin\Debug\netcoreapp3.1\InPlaceReversingOfArray.dll
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\bin\Debug\netcoreapp3.1\InPlaceReversingOfArray.pdb
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\obj\Debug\netcoreapp3.1\InPlaceReversingOfArray.csproj.CoreCompileInputs.cache
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\obj\Debug\netcoreapp3.1\InPlaceReversingOfArray.AssemblyInfoInputs.cache
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\obj\Debug\netcoreapp3.1\InPlaceReversingOfArray.AssemblyInfo.cs
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\obj\Debug\netcoreapp3.1\InPlaceReversingOfArray.dll
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\obj\Debug\netcoreapp3.1\InPlaceReversingOfArray.pdb
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\obj\Debug\netcoreapp3.1\InPlaceReversingOfArray.genruntimeconfig.cache
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\InPlaceReversingOfArray\obj\Debug\netcoreapp3.1\InPlaceReversingOfArray.csprojAssemblyReference.cache

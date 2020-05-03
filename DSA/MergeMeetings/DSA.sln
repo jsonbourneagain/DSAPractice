@@ -11,7 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeMeetingsTest", "..\Mer
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InPlaceReversing", "InPlaceReversing", "{18C539D9-60B0-4D9F-8256-65C5B5D9F3EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InPlaceReversingOfArray", "..\InPlaceReversingOfArray\InPlaceReversingOfArray.csproj", "{CAFF6948-0BD2-42C8-93BD-0C591B3A8A8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InPlaceReversingOfArray", "..\InPlaceReversingOfArray\InPlaceReversingOfArray.csproj", "{CAFF6948-0BD2-42C8-93BD-0C591B3A8A8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InPlaceReversingWords", "InPlaceReversingWords", "{ADB0FF0D-9FB7-4CF3-AD27-8EF37D6AB0BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InPlaceReversingOfWords", "..\InPlaceReversingOfWords\InPlaceReversingOfWords.csproj", "{06C63211-6CE2-41AE-A5BC-6B735398BCEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MergeTwoSortedArrays", "MergeTwoSortedArrays", "{55846740-37BA-45FD-8A34-223F4068B262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedArraysIntoOneArray", "..\MergeTwoSortedArraysIntoOneArray\MergeTwoSortedArraysIntoOneArray.csproj", "{2B4BBDAE-D5BC-454C-AE74-C3A45CDE5FE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +39,14 @@ Global
 		{CAFF6948-0BD2-42C8-93BD-0C591B3A8A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAFF6948-0BD2-42C8-93BD-0C591B3A8A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAFF6948-0BD2-42C8-93BD-0C591B3A8A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C63211-6CE2-41AE-A5BC-6B735398BCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C63211-6CE2-41AE-A5BC-6B735398BCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C63211-6CE2-41AE-A5BC-6B735398BCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C63211-6CE2-41AE-A5BC-6B735398BCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4BBDAE-D5BC-454C-AE74-C3A45CDE5FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4BBDAE-D5BC-454C-AE74-C3A45CDE5FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4BBDAE-D5BC-454C-AE74-C3A45CDE5FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4BBDAE-D5BC-454C-AE74-C3A45CDE5FE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +55,8 @@ Global
 		{839590EB-E7EA-4392-B4A3-6715CA5D159C} = {EF459889-EFF9-4149-B390-604844134487}
 		{4586E526-04B1-4A23-BD65-DC00ADEA04D0} = {EF459889-EFF9-4149-B390-604844134487}
 		{CAFF6948-0BD2-42C8-93BD-0C591B3A8A8D} = {18C539D9-60B0-4D9F-8256-65C5B5D9F3EB}
+		{06C63211-6CE2-41AE-A5BC-6B735398BCEF} = {ADB0FF0D-9FB7-4CF3-AD27-8EF37D6AB0BA}
+		{2B4BBDAE-D5BC-454C-AE74-C3A45CDE5FE7} = {55846740-37BA-45FD-8A34-223F4068B262}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C8F3DAD-7B62-4DE7-B387-1313C15A8272}
