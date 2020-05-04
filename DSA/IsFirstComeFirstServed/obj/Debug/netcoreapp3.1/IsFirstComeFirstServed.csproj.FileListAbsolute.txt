@@ -1,0 +1,13 @@
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\bin\Debug\netcoreapp3.1\IsFirstComeFirstServed.exe
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\bin\Debug\netcoreapp3.1\IsFirstComeFirstServed.deps.json
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\bin\Debug\netcoreapp3.1\IsFirstComeFirstServed.runtimeconfig.json
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\bin\Debug\netcoreapp3.1\IsFirstComeFirstServed.runtimeconfig.dev.json
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\bin\Debug\netcoreapp3.1\IsFirstComeFirstServed.dll
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\bin\Debug\netcoreapp3.1\IsFirstComeFirstServed.pdb
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\obj\Debug\netcoreapp3.1\IsFirstComeFirstServed.csprojAssemblyReference.cache
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\obj\Debug\netcoreapp3.1\IsFirstComeFirstServed.csproj.CoreCompileInputs.cache
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\obj\Debug\netcoreapp3.1\IsFirstComeFirstServed.AssemblyInfoInputs.cache
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\obj\Debug\netcoreapp3.1\IsFirstComeFirstServed.AssemblyInfo.cs
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\obj\Debug\netcoreapp3.1\IsFirstComeFirstServed.dll
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\obj\Debug\netcoreapp3.1\IsFirstComeFirstServed.pdb
+C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\IsFirstComeFirstServed\obj\Debug\netcoreapp3.1\IsFirstComeFirstServed.genruntimeconfig.cache
