@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7TMMr4xo6MgfHi4dTZGyP+8zvLkQy4neYy6z9U5+gX7Ibh6OzgxMtZQOLzx3A5zdkaEoOG74HS0JEi9pBUuUsg==",
+  "success": true,
+  "projectFilePath": "D:\\APersonal\\DSAPractice\\DSA\\FindADuplicateSpaceEdition\\findaduplicate\\findaduplicate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lpandey\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
