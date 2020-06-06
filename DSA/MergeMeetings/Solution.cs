@@ -55,6 +55,46 @@ namespace MergeMeetings
             // Merge meeting ranges
 
             // sort the list of meetings based on the start time.
+            meetings = meetings.OrderBy(m => m.StartTime).ToList();
+
+            var length = meetings.Count;
+            var mergedMeetings = new List<Meeting>();
+
+            var currentStartTime = meetings.First().StartTime;
+            var currentEndTime = meetings.First().EndTime;
+
+            for (int i = 0; i < length; i++)
+            {
+                if (i + 1 < length)
+                {
+                    var nextStartTime = meetings[i + 1].StartTime;
+                    var nextEndTime = meetings[i + 1].EndTime;
+
+                    if (currentEndTime >= nextStartTime)
+                    {
+                        currentEndTime = Math.Max(currentEndTime, nextEndTime);
+                    }
+                    else
+                    {
+                        mergedMeetings.Add(new Meeting(currentStartTime, currentEndTime));
+                        currentStartTime = nextStartTime;
+                        currentEndTime = nextEndTime;
+                    }
+                }
+                else
+                {
+                    mergedMeetings.Add(new Meeting(currentStartTime, currentEndTime));
+                }
+
+            }
+            return mergedMeetings;
+        }
+
+        public static List<Meeting> MergeRanges1(List<Meeting> meetings)
+        {
+            // Merge meeting ranges
+
+            // sort the list of meetings based on the start time.
 
             meetings = meetings.OrderBy(m => m.StartTime).ToList();
 
@@ -92,5 +132,6 @@ namespace MergeMeetings
 
             return retList;
         }
+
     }
 }

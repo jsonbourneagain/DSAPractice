@@ -4665,19 +4665,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lavakeshpandey\\.nuget\\packages\\": {}
+    "C:\\Users\\Lavakesh Pandey\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetingsTest\\MergeMeetingsTest.csproj",
+      "projectUniqueName": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeMeetingsTest\\MergeMeetingsTest.csproj",
       "projectName": "MergeMeetingsTest",
-      "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetingsTest\\MergeMeetingsTest.csproj",
-      "packagesPath": "C:\\Users\\lavakeshpandey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetingsTest\\obj\\",
+      "projectPath": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeMeetingsTest\\MergeMeetingsTest.csproj",
+      "packagesPath": "C:\\Users\\Lavakesh Pandey\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeMeetingsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lavakeshpandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lavakesh Pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4690,8 +4690,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj": {
-              "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj"
+            "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj": {
+              "projectPath": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeMeetings\\MergeMeetings.csproj"
             }
           }
         }
@@ -4720,12 +4720,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

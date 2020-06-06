@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\lavakeshpandey\\.nuget\\packages\\": {}
+    "C:\\Users\\Lavakesh Pandey\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\IsFirstComeFirstServed\\IsFirstComeFirstServed.csproj",
+      "projectUniqueName": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\IsFirstComeFirstServed\\IsFirstComeFirstServed.csproj",
       "projectName": "IsFirstComeFirstServed",
-      "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\IsFirstComeFirstServed\\IsFirstComeFirstServed.csproj",
-      "packagesPath": "C:\\Users\\lavakeshpandey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\IsFirstComeFirstServed\\obj\\",
+      "projectPath": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\IsFirstComeFirstServed\\IsFirstComeFirstServed.csproj",
+      "packagesPath": "C:\\Users\\Lavakesh Pandey\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\IsFirstComeFirstServed\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lavakeshpandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lavakesh Pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,12 +53,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

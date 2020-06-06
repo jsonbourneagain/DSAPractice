@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\MergeTwoSortedArraysIntoOneArray.csproj": {}
+    "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\MergeTwoSortedArraysIntoOneArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\MergeTwoSortedArraysIntoOneArray.csproj": {
+    "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\MergeTwoSortedArraysIntoOneArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\MergeTwoSortedArraysIntoOneArray.csproj",
+        "projectUniqueName": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\MergeTwoSortedArraysIntoOneArray.csproj",
         "projectName": "MergeTwoSortedArraysIntoOneArray",
-        "projectPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\MergeTwoSortedArraysIntoOneArray.csproj",
-        "packagesPath": "C:\\Users\\lavakeshpandey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lavakeshpandey\\Desktop\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\obj\\",
+        "projectPath": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\MergeTwoSortedArraysIntoOneArray.csproj",
+        "packagesPath": "C:\\Users\\Lavakesh Pandey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSA\\DSAPractice\\DSA\\MergeTwoSortedArraysIntoOneArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lavakeshpandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lavakesh Pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,12 +47,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

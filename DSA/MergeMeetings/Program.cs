@@ -16,9 +16,6 @@ namespace MergeMeetings
 
             Console.WriteLine(Solution.MergeRanges(meetings).ToString());
         }
-        //public static void Main(string[] args)
-        //{
-        //    TestRunner.RunTests(typeof(Solution));
-        //}
+
     }
 }
