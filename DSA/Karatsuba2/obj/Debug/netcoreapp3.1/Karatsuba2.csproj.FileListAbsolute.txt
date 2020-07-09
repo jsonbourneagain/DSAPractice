@@ -1,0 +1,12 @@
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\bin\Debug\netcoreapp3.1\Karatsuba2.exe
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\bin\Debug\netcoreapp3.1\Karatsuba2.deps.json
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\bin\Debug\netcoreapp3.1\Karatsuba2.runtimeconfig.json
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\bin\Debug\netcoreapp3.1\Karatsuba2.runtimeconfig.dev.json
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\bin\Debug\netcoreapp3.1\Karatsuba2.dll
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\bin\Debug\netcoreapp3.1\Karatsuba2.pdb
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\obj\Debug\netcoreapp3.1\Karatsuba2.AssemblyInfoInputs.cache
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\obj\Debug\netcoreapp3.1\Karatsuba2.AssemblyInfo.cs
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\obj\Debug\netcoreapp3.1\Karatsuba2.csproj.CoreCompileInputs.cache
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\obj\Debug\netcoreapp3.1\Karatsuba2.dll
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\obj\Debug\netcoreapp3.1\Karatsuba2.pdb
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\Karatsuba2\obj\Debug\netcoreapp3.1\Karatsuba2.genruntimeconfig.cache

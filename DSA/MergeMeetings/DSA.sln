@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedArraysIntoOne
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FirstComeFirstServed", "FirstComeFirstServed", "{26838443-BFE7-40E2-A67E-EEC5303D3E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsFirstComeFirstServed", "..\IsFirstComeFirstServed\IsFirstComeFirstServed.csproj", "{89C474E5-80A0-42B3-87B0-5B91681139FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsFirstComeFirstServed", "..\IsFirstComeFirstServed\IsFirstComeFirstServed.csproj", "{89C474E5-80A0-42B3-87B0-5B91681139FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaratsubaMultiplication", "..\KaratsubaMultiplication\KaratsubaMultiplication.csproj", "{21291EC6-70BF-4ED6-920C-FCA063C75A12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{89C474E5-80A0-42B3-87B0-5B91681139FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89C474E5-80A0-42B3-87B0-5B91681139FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89C474E5-80A0-42B3-87B0-5B91681139FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21291EC6-70BF-4ED6-920C-FCA063C75A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21291EC6-70BF-4ED6-920C-FCA063C75A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21291EC6-70BF-4ED6-920C-FCA063C75A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21291EC6-70BF-4ED6-920C-FCA063C75A12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

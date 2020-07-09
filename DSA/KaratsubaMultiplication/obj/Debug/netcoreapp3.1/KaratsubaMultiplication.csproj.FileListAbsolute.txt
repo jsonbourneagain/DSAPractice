@@ -1,0 +1,13 @@
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\bin\Debug\netcoreapp3.1\KaratsubaMultiplication.exe
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\bin\Debug\netcoreapp3.1\KaratsubaMultiplication.deps.json
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\bin\Debug\netcoreapp3.1\KaratsubaMultiplication.runtimeconfig.json
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\bin\Debug\netcoreapp3.1\KaratsubaMultiplication.runtimeconfig.dev.json
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\bin\Debug\netcoreapp3.1\KaratsubaMultiplication.dll
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\bin\Debug\netcoreapp3.1\KaratsubaMultiplication.pdb
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\obj\Debug\netcoreapp3.1\KaratsubaMultiplication.csprojAssemblyReference.cache
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\obj\Debug\netcoreapp3.1\KaratsubaMultiplication.AssemblyInfoInputs.cache
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\obj\Debug\netcoreapp3.1\KaratsubaMultiplication.AssemblyInfo.cs
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\obj\Debug\netcoreapp3.1\KaratsubaMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\obj\Debug\netcoreapp3.1\KaratsubaMultiplication.dll
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\obj\Debug\netcoreapp3.1\KaratsubaMultiplication.pdb
+C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\KaratsubaMultiplication\obj\Debug\netcoreapp3.1\KaratsubaMultiplication.genruntimeconfig.cache

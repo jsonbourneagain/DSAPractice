@@ -30,19 +30,3 @@ C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netc
 C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.dll
 C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.pdb
 C:\Users\lavakeshpandey\Desktop\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.genruntimeconfig.cache
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\bin\Debug\netcoreapp3.1\MergeMeetings.exe
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\bin\Debug\netcoreapp3.1\MergeMeetingsTest.deps.json
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\bin\Debug\netcoreapp3.1\MergeMeetingsTest.runtimeconfig.json
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\bin\Debug\netcoreapp3.1\MergeMeetingsTest.runtimeconfig.dev.json
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\bin\Debug\netcoreapp3.1\MergeMeetingsTest.dll
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\bin\Debug\netcoreapp3.1\MergeMeetingsTest.pdb
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\bin\Debug\netcoreapp3.1\MergeMeetings.dll
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\bin\Debug\netcoreapp3.1\MergeMeetings.pdb
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.csprojAssemblyReference.cache
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.AssemblyInfoInputs.cache
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.AssemblyInfo.cs
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.csproj.CoreCompileInputs.cache
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.csproj.CopyComplete
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.dll
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.pdb
-C:\Users\Lavakesh Pandey\Desktop\DSA\DSAPractice\DSA\MergeMeetingsTest\obj\Debug\netcoreapp3.1\MergeMeetingsTest.genruntimeconfig.cache
